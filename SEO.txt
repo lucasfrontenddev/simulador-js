@@ -1,0 +1,17 @@
+-- Incluí etiqueta meta en cada una de las paginas, con variadas keywords sacas del buscador de keywords de google ads. Ej:
+ "comida vegana, dieta vegana, queso vegano, carne vegana, pan vegano, las oreos son veganas".
+
+-- agregué un meta con "description" content="Alimentación a base de respeto y libre de crueldad."
+
+-- Cambié el title de las páginas:
+
+- "Les Viandas" (index.html)
+- "Les Viandas - Nosotres" (nosotros.html)
+- "Les Viandas - Locales" (locales.html)
+- "Les viandas - Galería" (galeria.html)
+- "Les Viandas - Contacto" (contacto.html)
+
+Cambié el título de algunas fotos de la galerías utilizando keywords. Ej:
+- Nutella vegana
+- Quesos veganos
+- Carne vegana
