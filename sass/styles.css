@@ -21,7 +21,7 @@ body header {
   z-index: 1;
 }
 body header nav {
-  background-color: orange;
+  background-color: rgb(94, 80, 56);
 }
 body header nav .container-fluid .logo {
   background-image: url("../assets/argentina.svg");
@@ -141,22 +141,22 @@ body main div .bg-img {
   filter: grayscale(100%);
 }
 body main div .item1 {
-  background-image: url("../assets/a1.jpg");
+  background-image: url("../assets/madryn.webp");
 }
 body main div .item2 {
-  background-image: url("../assets/a2.jpg");
+  background-image: url("../assets/bariloche.jpg");
 }
 body main div .item3 {
-  background-image: url("../assets/a3.jpg");
+  background-image: url("../assets/Las-grutas.webp");
 }
 body main div .item4 {
-  background-image: url("../assets/comidaveggie-backgroundimage.jpg");
+  background-image: url("../assets/comodoro.jpg");
 }
 body main div .item5 {
-  background-image: url("../assets/a5.jpg");
+  background-image: url("../assets/ushuaia.jpeg");
 }
 body main div .item6 {
-  background-image: url("../assets/a6.jpg");
+  background-image: url("../assets/bahia.jpg");
 }
 body main div .item7 {
   background-image: url("../assets/a7.jpg");
@@ -188,7 +188,7 @@ body main #contacto div .form-container .card {
   background-color: rgba(255, 166, 0, 0.322);
 }
 body footer {
-  background-color: orange;
+  background-color: rgb(94, 80, 56);
 }
 
 @media (max-width: 870px) {
